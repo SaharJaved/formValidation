@@ -58,7 +58,7 @@ input:hover {
 }
 
 input[type=submit]{
-    width: 80pt;
+    width: 300px;
     box-shadow:inset 0px 2px 0px 0px #97c4fe;
     background-color:#3d94f6;
     -moz-border-radius:6px;
@@ -74,8 +74,7 @@ input[type=submit]{
     padding: 5px 30px;
     text-decoration:underline;
     text-shadow:2px 1px  0px #1570cd;
-    height: 42px;
-    margin-left: 70%
+    height: 400px;
 
 }
 hr{
